@@ -1,5 +1,5 @@
 <template>
-  <header class="fixed-top" data-scroll-header>
+  <header class="sticky-top" data-scroll-header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
       <div class="container">
         <router-link to="/" class="navbar-brand">Kota Hashihama</router-link>

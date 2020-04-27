@@ -21,7 +21,8 @@ export default {
       { rel: 'icon', type: 'image/png', href: '/favicons/16x16.png' },
       { rel: 'shortcut icon', type: 'image/x-icon', href: '/favicons/favicon.ico' },
       { rel: 'stylesheet', href: 'https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css' },
-      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Press+Start+2P' }
+      { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Press+Start+2P' },
+      { rel: 'stylesheet', href: 'https://use.fontawesome.com/releases/v5.13.0/css/all.css' }
     ]
   },
   /*

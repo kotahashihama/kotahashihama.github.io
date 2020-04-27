@@ -5,7 +5,9 @@
         <h2 class="section-title text-uppercase mb-3">
           <i class="fas fa-laptop-code"></i> Works
         </h2>
-        <p class="lead mb-0">Just for your reference</p>
+        <p class="lead mb-0">
+          Just for your reference.
+        </p>
       </div>
 
       <div class="card-deck">

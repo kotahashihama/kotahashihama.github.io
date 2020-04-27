@@ -6,7 +6,7 @@
           <i class="far fa-paper-plane"></i> Contact
         </h2>
         <p class="lead mb-0">
-          Feel free to contact me
+          Feel free to contact me.
         </p>
       </div>
 

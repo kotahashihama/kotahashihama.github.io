@@ -1,4 +1,4 @@
-import { Button, Typography } from '@mui/material';
+import { Button, Container, Typography } from '@mui/material';
 import Head from 'next/head';
 import tw from 'twin.macro';
 
@@ -9,12 +9,16 @@ export default function Home() {
         <title>Kota Hashihama | Web Application Developer</title>
       </Head>
 
-      <div>
-        <Typography css={{ fontSize: '20px' }}>Kota Hashihama</Typography>
-        <img src="/images/kotahashihama.jpg" alt="Kota Hashihama" />
+      <Container>
+        <div>
+          <Typography css={{ fontSize: '44px', textAlign: 'center' }}>
+            Kota Hashihama
+          </Typography>
+          <img src="/images/kotahashihama.jpg" alt="Kota Hashihama" />
 
-        <Button variant="contained">hoge</Button>
-      </div>
+          <Button variant="contained">hoge</Button>
+        </div>
+      </Container>
     </>
   );
 }
